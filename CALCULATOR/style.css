@@ -1,0 +1,50 @@
+form{
+    border: 2px solid rgb(194, 52, 52);
+    width: 273px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(27, 196, 131);
+}
+#result input{
+    width: 242px;
+    height: 50px;
+    margin: 15px 12px 10px 12px;
+    border: 1.5px solid black;
+    font-size: 22px;
+    background-color: rgb(248, 246, 242);
+    border-radius: 5px;
+}
+.row{
+    margin: 10px 10px;
+    
+}
+.row input{
+    width: 50px;
+    height: 47px;
+
+}
+input[type="button" i]{
+    margin: 2px 5px;
+    border: 1.5px solid rgb(100, 77, 77);
+    border-radius: 5px;
+    font-size: 17px;
+}
+input[type="button" i]:hover{
+    cursor: pointer;
+    background-color: rgba(212, 206, 206, 0.719);
+}
+#isequ{
+    background-color: rgb(63, 21, 218);
+}
+#isequ:hover{
+    background-color: rgb(140, 26, 206);
+
+}
+#ac{
+    background-color: rgb(214, 11, 11);
+    color: rgb(197, 183, 190);
+}
+#ac:hover{
+    background-color: rgb(27, 171, 228);
+}
